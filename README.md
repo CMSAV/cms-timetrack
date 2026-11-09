@@ -1,0 +1,1 @@
+Deploy inside SharePoint or Azure Static Web Apps. Configured for CMSGlobal, Engineer Roster, TimeInOut.

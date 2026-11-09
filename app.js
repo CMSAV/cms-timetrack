@@ -1,0 +1,1 @@
+loadEngineers();let pendingOT=null;navigator.geolocation.getCurrentPosition(p=>window.coords=p.coords);document.getElementById('btnTimeIn').onclick=()=>alert('Implement production POST using provided schema');document.getElementById('btnTimeOut').onclick=()=>alert('Implement production MERGE using provided schema');
